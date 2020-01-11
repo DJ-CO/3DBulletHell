@@ -1,0 +1,2 @@
+# 3DBulletHell
+This is a collection of code written for a 3D bullet hell game I started making for Unreal Engine 4. UE4 is said to be finicky with Git, so this repository houses copies of the game’s source, not the originals that are used by the engine. I will test using Git with UE4 later, in a controlled setting. There are some interesting ideas in this code which I will revisit later, such as smart turrets and non-trivial ground movement.
